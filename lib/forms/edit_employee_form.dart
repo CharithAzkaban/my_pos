@@ -3,7 +3,6 @@ import 'package:my_pos/common/methods.dart';
 import 'package:my_pos/models/department.dart';
 import 'package:my_pos/models/employee.dart';
 import 'package:my_pos/providers/employee_provider.dart';
-import 'package:my_pos/screens/employee_list_screen.dart';
 import 'package:my_pos/services/database_activities.dart';
 import 'package:my_pos/widgets/employee_widget.dart';
 import 'package:my_pos/widgets/tff.dart';

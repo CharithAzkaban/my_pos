@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_slidable/flutter_slidable.dart';
-import 'package:my_pos/common/consts.dart';
 import 'package:my_pos/common/methods.dart';
 import 'package:my_pos/forms/add_employee_form.dart';
 import 'package:my_pos/models/department.dart';
